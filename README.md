@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm [Your Name] 
+# 👋 Hi, I'm Chaitanya Naik 
 
 ## Hi there 👋
 
 <!--
 **Chaitanyanaik3/Chaitanyanaik3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# 👋 Hi, I'm [Your Name] 
+# 👋 Hi, I'm Chaitanya Naik 
 
 ### 🚀 Software Engineer & Competitive Programmer
 A dedicated problem solver focused on algorithms, data structures, and building robust, scalable web applications.
@@ -48,15 +48,15 @@ A dedicated problem solver focused on algorithms, data structures, and building 
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" height="40" />
   </a>
   <!-- Live CodeChef Profile Link -->
-  <a href="https://www.codechef.com/users/[YOUR_CODECHEF_USERNAME]">
+  <a href="https://www.codechef.com/users/naik8596">
     <img src="https://img.shields.io/badge/CodeChef-Profile-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" height="40" />
   </a>
   <!-- Live HackerRank Profile Link -->
-  <a href="https://www.hackerrank.com/profile/[YOUR_HACKERRANK_USERNAME]">
+  <a href="https://www.hackerrank.com/profile/sugalichaitanya3">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" height="40" />
   </a>
   <!-- Live Codolio Profile Link -->
-  <a href="https://codolio.com/profile/[YOUR_CODOLIO_USERNAME]">
+  <a href="https://codolio.com/profile/Chaitanya_Naik">
     <img src="https://img.shields.io/badge/Codolio-Profile-4F46E5?style=for-the-badge&logo=codefactor&logoColor=white" alt="Codolio" height="40" />
   </a>
 </p>
