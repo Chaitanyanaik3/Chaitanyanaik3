@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm [Your Name] 
 
+## Hi there 👋
+
+<!--
+**Chaitanyanaik3/Chaitanyanaik3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+# 👋 Hi, I'm [Your Name] 
+
 ### 🚀 Software Engineer & Competitive Programmer
 A dedicated problem solver focused on algorithms, data structures, and building robust, scalable web applications.
 
@@ -25,7 +32,14 @@ A dedicated problem solver focused on algorithms, data structures, and building 
 
 ### 🧩 LeetCode Analytics
 <!-- Updates live as you solve problems -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Chaitanya033?theme=unicorn)](https://leetcode.com/[YOUR_LEETCODE_USERNAME])
+<p align="left">
+  <a href="https://leetcode.com/Chaitanya033">
+    <img src="https://leetcard.jacoblin.cool/Chaitanya033?theme=unicorn" alt="LeetCode Stats" height="180" />
+  </a>
+  <a href="https://leetcode.com/Chaitanya033">
+    <img src="https://leetcode-stats.vercel.app/api?username=Chaitanya033&theme=Dark" alt="LeetCode Heatmap Calendar" height="180" />
+  </a>
+</p>
 
 ### ⚔️ Competitive Programming Stats
 <p align="left">
