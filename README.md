@@ -25,7 +25,7 @@ A dedicated problem solver focused on algorithms, data structures, and building 
 
 ### 🧩 LeetCode Analytics
 <!-- Updates live as you solve problems -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/[YOUR_LEETCODE_USERNAME]?theme=unicorn)](https://leetcode.com/[YOUR_LEETCODE_USERNAME])
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Chaitanya033?theme=unicorn)](https://leetcode.com/[YOUR_LEETCODE_USERNAME])
 
 ### ⚔️ Competitive Programming Stats
 <p align="left">
